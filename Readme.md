@@ -16,7 +16,6 @@ Hi, I'm [Aryan Soni](https://www.aryansoni.com/), a web and app developer 👨�
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 - 📫 How to reach me: LinkedIn;
 - 🔗 My website: [https://www.aryan2vb.com/](https://www.aryan2vb.com/)
