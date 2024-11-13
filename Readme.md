@@ -18,7 +18,7 @@ Hi, I'm [Aryan Soni](https://aryannsaraf.vercel.app/), a web and app developer �
 
 
 - 📫 How to reach me: LinkedIn;
-- 🔗 My website: [https://www.aryan2vb.com/](https://aryannsaraf.vercel.app/)
+- 🔗 My website: [https://aryannsaraf.vercel.app](https://aryannsaraf.vercel.app/)
 
 
 **Languages and Tools:**
